@@ -6,5 +6,5 @@ node_modules/
 # 忽略 docs/.vitepress/cache 目录
 docs/.vitepress/cache/
 
-
-
+# 忽略 dist 目录
+.vitepress/dist/
